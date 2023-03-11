@@ -1,4 +1,4 @@
 # CodeJooyan.Blog
 
 ## status :
-> In progress 🧑🏽‍💻
+> Will be started 📂
